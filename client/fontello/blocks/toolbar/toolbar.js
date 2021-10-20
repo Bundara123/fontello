@@ -7,7 +7,7 @@ var ko = require('knockout');
 var deflate = require('pako/lib/deflate');
 
 
-var GLYPH_SIZE_MIN = 12;
+var GLYPH_SIZE_MIN = 0;
 var GLYPH_SIZE_MAX = 30;
 
 
